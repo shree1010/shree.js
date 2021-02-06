@@ -1,1 +1,2 @@
-# shree.js
+# collisionAlgorithm
+Algorithm to detect collision between two objects
